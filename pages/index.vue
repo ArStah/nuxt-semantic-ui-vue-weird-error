@@ -244,7 +244,7 @@
     { value: 'ms', flag: 'ms', text: 'Montserrat' },
     { value: 'ma', flag: 'ma', text: 'Morocco' },
     { value: 'mz', flag: 'mz', text: 'Mozambique' },
-    { value: 'na', flag: 'na', text: 'Namibia' }, // TODO: uncomment next line to get error
+    { value: 'na', flag: 'na', text: 'Namibia' }, // TODO: uncomment next lines to get error
 //    { value: 'nr', flag: 'nr', text: 'Nauru' },
 //    { value: 'np', flag: 'np', text: 'Nepal' },
 //    { value: 'an', flag: 'an', text: 'Netherlands Antilles' },

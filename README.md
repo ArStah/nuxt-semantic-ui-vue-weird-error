@@ -9,4 +9,4 @@ $ npm install # Or yarn
 # serve with hot reload at localhost:3000
 $ npm run dev
 ```
-Probably everything will be ok. Then go to `pages/index.js` and uncomment 248 line
+Probably everything will be ok. Then go to `pages/index.js` and uncomment 248 line if error didn't appear, please uncomment more lines, or even all of them
