@@ -20,6 +20,9 @@ module.exports = {
   /*
   ** Build configuration
   */
+  modules: [
+    'semantic-ui-vue/nuxt'
+  ],
   build: {
     /*
     ** Run ESLint on save
